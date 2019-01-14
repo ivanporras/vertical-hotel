@@ -2,7 +2,7 @@
 <!DOCTYPE xml>
 <odoo>
 
-    <menuitem id="hotel_management_menu" name="Hotel Management" web_icon="hotel,static/img/icon-makepler.jpg" />
+    <menuitem id="hotel_management_menu" name="Hotel Management" web_icon="hotel,static/description/icon-makepler.jpg" />
 
     <menuitem id="hotel_configuration_menu" name="Configuration"
         sequence="20" parent="hotel_management_menu" />
