@@ -1,9 +1,9 @@
 [![Build Status](https://travis-ci.org/OCA/vertical-hotel.svg?branch=11.0)](https://travis-ci.org/OCA/vertical-hotel)
 [![Coverage Status](https://coveralls.io/repos/OCA/vertical-hotel/badge.png?branch=11.0)](https://coveralls.io/r/OCA/vertical-hotel?branch=11.0)
 
-# Vertical Hotel
+# Vertical Hotel 
 
-write me
+This repository is translated to mexican spanish. 
 
 
 
